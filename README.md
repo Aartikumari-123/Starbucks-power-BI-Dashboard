@@ -36,8 +36,6 @@ Project Outcome
 
 This dashboard provides a clear and interactive way to understand Starbucks beverage characteristics and compare different beverage categories based on nutritional and caffeine-related metrics.
 
-## Dashboard Preview
-
-![Starbucks Power BI Dashboard](Starbucks_Dashboard.png)
+https://github.com/Aartikumari-123/Starbucks-power-BI-Dashboard/blob/main/Starbucks%20_%20Dashboard.png
 
 
